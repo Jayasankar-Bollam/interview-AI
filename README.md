@@ -268,7 +268,7 @@ This allows the user to generate a customized resume based on the target job.
 I used JWT-based authentication in this project.
 
 During registration:
-
+ 
 ```text
 User Password
  ↓
